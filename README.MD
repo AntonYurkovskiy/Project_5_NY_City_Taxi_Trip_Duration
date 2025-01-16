@@ -1,4 +1,4 @@
-<center> <img src=data/dst3-pr5_1_1.png align="right" width="300"/> </center>
+<center> <img src=pic/dst3-pr5_1_1.png align="right" width="300"/> </center>
 
 ### Пердсказание общей продолжительности поездки на такси в Нью-Йорке
 
